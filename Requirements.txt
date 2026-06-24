@@ -3,8 +3,10 @@ pandas
 numpy
 matplotlib
 seaborn
+pymongo[srv]==3.12
 pymongo
 certifi
-
+ipykernel
+scikit-learn
 
 # -e .

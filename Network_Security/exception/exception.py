@@ -12,7 +12,7 @@ def my_message(mssg, source:sys):
 
     
 
-class CustomException(Exception):
+class NetworkSecurityException(Exception):
     def __init__(self, mssg, source:sys):
         super().__init__(mssg,source)
         self.message = my_message(mssg,source)

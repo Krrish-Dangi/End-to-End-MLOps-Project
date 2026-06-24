@@ -19,7 +19,6 @@ def get_req()->List[str]:
 
     return req
 
-
 setup(
     name="Network Security",
     author="Krrish Dangi",
