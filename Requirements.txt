@@ -6,9 +6,10 @@ seaborn
 pymongo[srv]==3.12
 pymongo
 certifi
-ipykernel
 scikit-learn
 pyaml
 dill
+mlflow
+dagshub
 
 # -e .

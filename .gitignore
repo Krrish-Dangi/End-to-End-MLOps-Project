@@ -5,3 +5,9 @@ logs/
 Artifacts/
 
 Learnings/
+
+__pycache__/
+
+final_model/
+mlruns/
+mlflow.db
